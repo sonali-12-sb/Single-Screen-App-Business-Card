@@ -26,9 +26,7 @@ This app contains only **one screen** as it’s a **single-screen app**. It disp
 It features a **beautiful and visually appealing UI design**. The app's UI is **fully responsive**, adapting smoothly to different screen sizes for an optimal viewing experience across devices.
 
 ### 🖼️ **Screenshots**
-![App Screenshot 1](screenshots/screen1.png)  
-![App Screenshot 2](screenshots/screen2.png)  
-
+<img src="Review/IMG_20250330_014709.jpg" width="300">
 
 ---
 
