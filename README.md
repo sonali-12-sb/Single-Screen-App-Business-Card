@@ -33,6 +33,6 @@ It features a **beautiful and visually appealing UI design**. The app's UI is **
 ---
 
 ## ⭐ Review from Udacity  
-![Udacity Review](screenshots/review.png)  
+![Udacity Review](Review/portal_review.png)  
 
 ---
